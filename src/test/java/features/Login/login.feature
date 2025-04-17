@@ -6,7 +6,7 @@ Feature: Login to the system
     Given I have opened the system
     When I set the browser to full screen
 
-  # Login functionality
+  
   @Login
   Scenario: Verify login with valid credentials 2
 
